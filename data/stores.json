@@ -1,0 +1,4 @@
+[
+  { "id": "tokyo", "name": "ケンズ車検 東京店", "email": "tokyo-staff@example.local" },
+  { "id": "yokohama", "name": "ケンズ車検 横浜店", "email": "yokohama-staff@example.local" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": "slot-1", "storeId": "tokyo", "start": "2026-05-01T09:00:00+09:00", "capacity": 2 },
+  { "id": "slot-2", "storeId": "tokyo", "start": "2026-05-01T11:00:00+09:00", "capacity": 2 },
+  { "id": "slot-3", "storeId": "yokohama", "start": "2026-05-02T10:00:00+09:00", "capacity": 1 }
+]
